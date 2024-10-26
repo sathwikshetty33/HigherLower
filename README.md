@@ -1,0 +1,1 @@
+This project is a fun command-line game where players guess if the next random number will be higher or lower than the current one. The game is a simple way to practice Python skills, especially related to conditional statements, loops, and user input.
